@@ -3,5 +3,5 @@ PROYECTO CONJUNTO
 
 Contribuidor:
 -------------
-David Piqueras Cervera
+David Piqueras Cervera /h
 Kevin Sanz Fernandez
